@@ -28,6 +28,7 @@
 		<dict>
 			<key>UIWindowSceneSessionRoleApplication</key>
 			<array>
+				// The changes in the code is done by Jorawar //
 				<dict>
 					<key>UISceneConfigurationName</key>
 					<string>Default Configuration</string>
